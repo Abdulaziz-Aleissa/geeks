@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "game_name": "Space Odyssey",
-    "category": "Adventure",
-    "price": "$2",
-    "release_date": "2016-05-11"
-  },
-  {
     "id": 66,
     "game_name": "Fantasy Quest",
     "category": "Adventure",
@@ -17,14 +10,14 @@
     "id": 185,
     "game_name": "Space Odyssey",
     "category": "Adventure",
-    "price": "$2",
+    "price": "$45",
     "release_date": "2016-05-11"
   },
   {
     "id": 154,
     "game_name": "Racing Rush",
     "category": "Sport",
-    "price": "$2",
+    "price": "$30",
     "release_date": "2016-05-11"
   },
 
@@ -55,145 +48,5 @@
     "category": "Racing",
     "price": "$36",
     "release_date": "2021-07-09"
-  },
-  {
-    "id": 6,
-    "game_name": "Game 6",
-    "category": "Simulation",
-    "price": "$8",
-    "release_date": "2022-07-15"
-  },
-  {
-    "id": 7,
-    "game_name": "Game 7",
-    "category": "RPG",
-    "price": "$47",
-    "release_date": "2017-06-13"
-  },
-  {
-    "id": 8,
-    "game_name": "Game 8",
-    "category": "Action",
-    "price": "$58",
-    "release_date": "2016-05-01"
-  },
-  {
-    "id": 9,
-    "game_name": "Game 9",
-    "category": "Adventure",
-    "price": "$48",
-    "release_date": "2020-12-11"
-  },
-  {
-    "id": 10,
-    "game_name": "Game 10",
-    "category": "RPG",
-    "price": "$37",
-    "release_date": "2017-11-07"
-  },
-  {
-    "id": 11,
-    "game_name": "Game 11",
-    "category": "RPG",
-    "price": "$47",
-    "release_date": "2017-08-06"
-  },
-  {
-    "id": 12,
-    "game_name": "Game 12",
-    "category": "Racing",
-    "price": "$50",
-    "release_date": "2019-04-18"
-  },
-  {
-    "id": 13,
-    "game_name": "Game 13",
-    "category": "Strategy",
-    "price": "$37",
-    "release_date": "2021-06-04"
-  },
-  {
-    "id": 14,
-    "game_name": "Game 14",
-    "category": "Simulation",
-    "price": "$4",
-    "release_date": "2022-09-16"
-  },
-  {
-    "id": 15,
-    "game_name": "Game 15",
-    "category": "Simulation",
-    "price": "$3",
-    "release_date": "2019-04-16"
-  },
-  {
-    "id": 16,
-    "game_name": "Game 16",
-    "category": "Puzzle",
-    "price": "$17",
-    "release_date": "2023-11-14"
-  },
-  {
-    "id": 17,
-    "game_name": "Game 17",
-    "category": "Adventure",
-    "price": "$44",
-    "release_date": "2021-01-02"
-  },
-  {
-    "id": 18,
-    "game_name": "Game 18",
-    "category": "Adventure",
-    "price": "$10",
-    "release_date": "2019-09-10"
-  },
-  {
-    "id": 19,
-    "game_name": "Game 19",
-    "category": "Action",
-    "price": "$42",
-    "release_date": "2018-03-30"
-  },
-  {
-    "id": 20,
-    "game_name": "Game 20",
-    "category": "Racing",
-    "price": "$14",
-    "release_date": "2017-08-27"
-  },
-  {
-    "id": 21,
-    "game_name": "Game 21",
-    "category": "Strategy",
-    "price": "$31",
-    "release_date": "2018-10-10"
-  },
-  {
-    "id": 22,
-    "game_name": "Game 22",
-    "category": "Simulation",
-    "price": "$8",
-    "release_date": "2020-06-09"
-  },
-  {
-    "id": 23,
-    "game_name": "Game 23",
-    "category": "Puzzle",
-    "price": "$52",
-    "release_date": "2021-06-30"
-  },
-  {
-    "id": 24,
-    "game_name": "Game 24",
-    "category": "Simulation",
-    "price": "$3",
-    "release_date": "2020-06-21"
-  },
-  {
-    "id": 25,
-    "game_name": "Game 25",
-    "category": "RPG",
-    "price": "$55",
-    "release_date": "2018-03-07"
   }
 ]
